@@ -43,4 +43,4 @@ MCC：0.9664959643957367
 
 
 
-![](D:\Jupyter Notebook\00-xin mei ti\利用随机搜索算法对XGBoost分类模型参数寻优\result.png)
+![](./result.png)
